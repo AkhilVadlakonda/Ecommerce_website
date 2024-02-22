@@ -1,16 +1,4 @@
-## Old Version
-- https://github.com/jaygajera17/E-commerce-project-springBoot/tree/main
-- issue: everytime connection open close for access database 
 
-## New Upgrade ( what's new)
-- Hibernate configuration added( database and tables automatically create when run the project)
-- Service classes provide reusable services throughout project
-- dao classes interact with database 
-- bug fixed ( product image, security , etc..)
-- support in both eclipse & intellij ide
-- overall redesign entire code that help reusability. 
-- disclaimer: currently working on this branch so there may be some bug related to endpoint, and working on cart logic.
-  
 ## Quickstart
 
 1. Clone the repository
@@ -79,18 +67,6 @@ When you run the project, the views should be found by Spring Boot and you shoul
 - http://localhost:8080/admin/Dashboard
 
 
-## Spring Boot
-
-For any information about Spring Boot, here are some useful links!
-
-### Reference Documentation
-For further reference, please consider the following sections:
-
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.6.4/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.6.4/maven-plugin/reference/html/#build-image)
-* [Spring Web](https://docs.spring.io/spring-boot/docs/2.6.4/reference/htmlsingle/#boot-features-developing-web-applications)
-
 ### Guides
 The following guides illustrate how to use some features concretely:
 
@@ -105,8 +81,3 @@ The following guides illustrate how to use some features concretely:
 ![image](https://github.com/jaygajera17/E-commerce-project-springBoot/assets/81226571/93c1baeb-326c-450f-867e-a883900a6644)
 
 
-## Link
-- 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝘃𝗶𝗱𝗲𝗼 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗗𝗲𝗺𝗼 + 𝘀𝘁𝗲𝗽 𝗯𝘆 𝘀𝘁𝗲𝗽 𝗲𝘅𝗲𝗰𝘂𝘁𝗶𝗼𝗻 𝗹𝗶𝗻𝗸  ( old version )::---  [  click here  ](https://youtu.be/c6WWdINWSlI) [![youtube][youtube-shield]][youtube-url]
-
-[youtube-shield]:https://img.shields.io/youtube/views/c6WWdINWSlI?style=social
-[youtube-url]:  https://youtu.be/c6WWdINWSlI
